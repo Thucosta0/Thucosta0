@@ -127,31 +127,5 @@ Bem-vindo ao meu perfil! Sou um profissional motivado e sempre em busca de apren
 
 </div>
 
----
-
-## 💡 Filosofia de Desenvolvimento
-
-> *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores e disciplina."* - Robert C. Martin
-
-### 🎯 Meus Princípios:
-- **Clean Code**: Código legível e maintível
-- **SOLID**: Princípios de design orientado a objetos
-- **DRY**: Don't Repeat Yourself
-- **TDD**: Test-Driven Development
-- **Agile**: Metodologias ágeis de desenvolvimento
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thucosta0&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile Views"/>
-</div>
-
-<div align="center">
   
 ### ⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela!
-
-</div>
-
----
-
-*Última atualização: Fevereiro 2025* 

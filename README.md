@@ -38,35 +38,24 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia com mais
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcostadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcostadev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thucosta0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thucosta0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurcostadev&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thucosta0&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🎯 Projetos em Destaque
 
-### 🔥 [Sistema de Gestão Empresarial](https://github.com/arthurcostadev/sistema-gestao)
-**Tecnologias:** Python, Django, PostgreSQL, CustomTkinter
-- Sistema completo de gestão com interface desktop moderna
-- Implementação de boas práticas de desenvolvimento
-- Arquitetura escalável e modular
+🚀 **Em breve!** Estou organizando meus melhores projetos para compartilhar aqui. Fique ligado para ver:
 
-### 🌐 [API RESTful Avançada](https://github.com/arthurcostadev/api-restful)
-**Tecnologias:** FastAPI, Python, Docker, AWS
-- API robusta com documentação automática
-- Implementação de autenticação JWT
-- Deploy automatizado com CI/CD
-
-### 📱 [Aplicação Web Responsiva](https://github.com/arthurcostadev/webapp-react)
-**Tecnologias:** React, TypeScript, Node.js, MongoDB
-- Interface moderna e responsiva
-- Integração com APIs externas
-- Testes automatizados
+- 🔥 **Sistemas de Gestão** com Python e CustomTkinter
+- 🌐 **APIs RESTful** com FastAPI e Django
+- 📱 **Aplicações Web** com React e TypeScript
+- 🤖 **Automações** e scripts Python
 
 ---
 
@@ -95,7 +84,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia com mais
 ## 📈 Contribuições Open Source
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurcostadev&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thucosta0&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -114,10 +103,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia com mais
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-costa-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.costa.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://arthurcostadev.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thucosta)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thucosta0)
 
 </div>
 
@@ -137,7 +124,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia com mais
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurcostadev&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=thucosta0&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile Views"/>
 </div>
 
 <div align="center">

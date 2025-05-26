@@ -1,37 +1,30 @@
-# 👋 Olá, eu sou Arthur Costa!
+# 👋 Olá, eu sou Arthur Costa Bleck Mascarenhas!
 
-## 🚀 Desenvolvedor Senior | 4+ Anos de Experiência
+## 🚀 Técnico Administrativo & Entusiasta em TI
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia com mais de 4 anos de experiência criando soluções inovadoras e eficientes.
+Bem-vindo ao meu perfil! Sou um profissional motivado e sempre em busca de aprendizado, com experiência na área administrativa e fiscal. Apaixonado por tecnologia e automação, estou me aprofundando em análise de dados e desenvolvimento de soluções inovadoras.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens de Programação
+### 💼 Sistemas Empresariais
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![DocuSign](https://img.shields.io/badge/DocuSign-FFB800?style=for-the-badge&logo=docusign&logoColor=white)
+![CLM](https://img.shields.io/badge/CLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🤖 Automação & Análise
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066CC?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Backend & Banco de Dados
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📊 Pacote Office
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 ---
 
@@ -50,34 +43,52 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia com mais
 
 ## 🎯 Projetos em Destaque
 
-🚀 **Em breve!** Estou organizando meus melhores projetos para compartilhar aqui. Fique ligado para ver:
+🚀 **Em desenvolvimento!** Estou criando projetos focados em automação e análise de dados:
 
-- 🔥 **Sistemas de Gestão** com Python e CustomTkinter
-- 🌐 **APIs RESTful** com FastAPI e Django
-- 📱 **Aplicações Web** com React e TypeScript
-- 🤖 **Automações** e scripts Python
+- 🤖 **Automações com Power Automate** para processos administrativos
+- 📊 **Análise de Dados** com Python e ferramentas de BI
+- 🔧 **Scripts de Automação** para otimização de processos
+- 📈 **Dashboards** para visualização de dados empresariais
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🏢 Desenvolvedor Senior
-**4+ anos de experiência** desenvolvendo soluções completas:
+### 🏥 **Técnico Administrativo II** - Hospital Israelita Albert Einstein
+**Novembro 2024 - Presente** | ADM Fiscal - CSE - P2P
+- 📋 Gestão de processos administrativos e fiscais
+- 🔧 Automação de processos com Power Automate
+- 📊 Análise e otimização de fluxos de trabalho
 
-- ✅ **Desenvolvimento Full-Stack** com foco em Python e JavaScript
-- ✅ **Arquitetura de Software** e design de sistemas escaláveis
-- ✅ **Liderança Técnica** em projetos complexos
-- ✅ **Mentoria** de desenvolvedores juniores
-- ✅ **DevOps** e automação de processos
+### 🏥 **Técnico Administrativo I** - Hospital Israelita Albert Einstein  
+**Maio 2024 - Novembro 2024** | ADM Fiscal - P2P
+- 📄 Geração e ajustes de pedidos e contratos (SAP)
+- 🧾 Análise, correção e lançamento de NFs/NF-e
+- 🔗 Trabalho com plataformas SAP, DocuSign e CLM
+
+### 🏥 **Aprendiz** - Hospital Israelita Albert Einstein
+**Fevereiro 2023 - Janeiro 2024** | Compras Indiretas
+- 🛒 Suporte em processos de compras indiretas
+- 📚 Desenvolvimento de habilidades administrativas
+- 🤝 Trabalho em equipe e melhoria contínua
 
 ---
 
 ## 🎓 Formação & Certificações
 
-- 🎯 **Especialização em Desenvolvimento de Software**
-- 📜 **Certificações em Cloud Computing (AWS)**
-- 🏆 **Certificação Python Advanced**
-- 📚 **Formação em Arquitetura de Software**
+### 🎓 **Formação Acadêmica**
+- 💻 **Gestão de Tecnologia da Informação** - UNIFECAF (2025-2027) *Em andamento*
+- 🌐 **Curso de Inglês** - KeyUp (2024-2026) *Em andamento*
+
+### 📚 **Cursos e Especializações**
+- 📊 **Analista de Dados - Básico ao Avançado** - Alura (Janeiro 2025)
+- 🧠 **Lógica de Programação** - Alura (Janeiro 2025)
+
+### 🏆 **Habilidades Técnicas**
+- 🔧 **SAP** - Geração e ajustes de pedidos e contratos
+- 📄 **DocuSign & CLM** - Gestão de contratos digitais
+- 🤖 **Power Automate** - Automação de processos
+- 📊 **Análise de Dados** - Python e ferramentas de BI
 
 ---
 
@@ -89,13 +100,21 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia com mais
 
 ---
 
-## 🌟 Soft Skills
+## 🌟 Competências & Habilidades
 
-- 🎯 **Liderança** e trabalho em equipe
-- 🧠 **Resolução de problemas** complexos
+### 💼 **Habilidades Profissionais**
+- 🤝 **Trabalho em equipe** e colaboração
+- 📋 **Gestão de processos** administrativos e fiscais
+- 🔍 **Análise e correção** de documentos fiscais
+- 🚀 **Entusiasta em TI** para melhorias contínuas
+- 📊 **Conhecimento intermediário** em Pacote Office
+
+### 🎯 **Soft Skills**
 - 📚 **Aprendizado contínuo** e adaptabilidade
-- 💬 **Comunicação eficaz** com stakeholders
-- ⏰ **Gestão de tempo** e priorização
+- 🧠 **Resolução de problemas** e pensamento analítico
+- 💬 **Comunicação eficaz** e relacionamento interpessoal
+- ⏰ **Organização** e gestão de prioridades
+- 🔧 **Proatividade** em automação e otimização
 
 ---
 

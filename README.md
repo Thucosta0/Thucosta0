@@ -10,7 +10,6 @@ Bem-vindo ao meu perfil! Sou um profissional motivado e sempre em busca de apren
 
 ### 💼 Sistemas Empresariais
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![DocuSign](https://img.shields.io/badge/DocuSign-FFB800?style=for-the-badge&logo=docusign&logoColor=white)
 ![CLM](https://img.shields.io/badge/CLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 

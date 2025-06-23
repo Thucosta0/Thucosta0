@@ -1,0 +1,37 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Executa todo dia às 06:00 UTC (03:00 BRT)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Update README stats
+        run: |
+          echo "✅ Stats atualizadas automaticamente em $(date)"
+          echo "📊 Próxima atualização: $(date -d '+1 day')"
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "🤖 Atualização automática das estatísticas - $(date +'%d/%m/%Y %H:%M')"
+          git push 

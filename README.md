@@ -45,30 +45,6 @@ Sou um profissional motivado e sempre em busca de aprendizado, com sólida exper
 
 ---
 
-## 🎯 Projetos em Desenvolvimento
-
-```python
-projetos_atuais = {
-    "automacao_processos": {
-        "tecnologia": "Power Automate",
-        "objetivo": "Otimização de processos administrativos",
-        "status": "🚧 Em desenvolvimento"
-    },
-    "analise_dados": {
-        "tecnologia": "Python + Power BI",
-        "objetivo": "Dashboards para análise empresarial",
-        "status": "📊 Planejamento"
-    },
-    "scripts_automacao": {
-        "tecnologia": "Python",
-        "objetivo": "Automação de tarefas repetitivas",
-        "status": "⚡ Implementando"
-    }
-}
-```
-
----
-
 ## 💼 Trajetória Profissional
 
 ### 🏥 **Hospital Israelita Albert Einstein**

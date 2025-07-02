@@ -118,7 +118,6 @@ graph LR
 </div>
 
 ---
-
 ## 💼 Trajetória Profissional
 
 ### 🏥 **Hospital Israelita Albert Einstein**

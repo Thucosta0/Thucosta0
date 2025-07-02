@@ -19,31 +19,14 @@ Sou um profissional motivado e sempre em busca de aprendizado, com sólida exper
 ![DocuSign](https://img.shields.io/badge/DocuSign-FFD700?style=for-the-badge&logo=docusign&logoColor=white)
 ![CLM](https://img.shields.io/badge/CLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🐍 Desenvolvimento Python
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🤖 Automação & IA
+### 🤖 Automação & Análise
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=microsoft&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 📊 Business Intelligence & Análise
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Produtividade
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -62,60 +45,27 @@ Sou um profissional motivado e sempre em busca de aprendizado, com sólida exper
 
 ---
 
-## 🎯 Meus Projetos
-
-### 🏆 **Projetos Concluídos**
-
-<div align="center">
-
-| 🚀 **Projeto** | 🛠️ **Tecnologias** | 📋 **Descrição** | 🔗 **Demo** |
-|:---:|:---:|:---:|:---:|
-| **🤖 Sistema de Automação Fiscal** | `Python` `CustomTkinter` `SAP Integration` | Sistema completo para automação de processos fiscais com interface moderna e integração SAP | [🔗 Ver Projeto](https://github.com/Thucosta0/automacao-fiscal) |
-| **📊 Dashboard Analytics P2P** | `Python` `Power BI` `Data Analysis` | Dashboard avançado para análise de dados P2P com visualizações interativas e relatórios automatizados | [🔗 Ver Projeto](https://github.com/Thucosta0/dashboard-p2p) |
-| **⚡ Scripts de Produtividade** | `Python` `Power Automate` `Office365` | Coleção de scripts para automação de tarefas administrativas e integração com ferramentas corporativas | [🔗 Ver Projeto](https://github.com/Thucosta0/scripts-produtividade) |
-
-</div>
-
-### 🔬 **Em Desenvolvimento Ativo**
+## 🎯 Objetivos Profissionais
 
 ```python
-projetos_desenvolvimento = {
-    "ai_document_processor": {
-        "tecnologia": "Python + AI/ML + CustomTkinter",
-        "objetivo": "Processamento inteligente de documentos fiscais",
-        "status": "🤖 70% - Implementando IA",
-        "preview": "Sistema que automatiza análise e classificação de documentos"
+metas_2025 = {
+    "desenvolvimento_pessoal": {
+        "foco": "Análise de Dados e Automação",
+        "tecnologias": ["Python", "Power BI", "Power Automate"],
+        "objetivo": "Especialização em soluções de dados e processos"
     },
-    "real_time_dashboard": {
-        "tecnologia": "Python + Streamlit + Power BI API",
-        "objetivo": "Dashboard em tempo real para KPIs hospitalares", 
-        "status": "📊 85% - Finalizando integração",
-        "preview": "Visualização ao vivo de métricas críticas"
+    "crescimento_profissional": {
+        "area": "Tecnologia da Informação",
+        "meta": "Transição para área de TI",
+        "prazo": "2025-2027"
     },
-    "process_optimizer": {
-        "tecnologia": "Python + Machine Learning",
-        "objetivo": "Otimização preditiva de processos P2P",
-        "status": "⚡ 40% - Coletando dados",
-        "preview": "IA para prever gargalos e sugerir melhorias"
+    "projetos_futuros": {
+        "tipo": "Automação de processos hospitalares",
+        "aplicacao": "Otimização de fluxos administrativos",
+        "impacto": "Melhoria da eficiência operacional"
     }
 }
 ```
-
-### 📈 **Pipeline de Projetos 2025**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎯 Q1 2025] --> B[Sistema CRM Interno]
-    A --> C[API Integração SAP]
-    D[🚀 Q2 2025] --> E[Mobile App P2P]
-    D --> F[BI Avançado Healthcare]
-    G[💡 Q3 2025] --> H[Plataforma Low-Code]
-    G --> I[Automação RPA Completa]
-```
-
-</div>
 
 ---
 ## 💼 Trajetória Profissional
@@ -164,10 +114,13 @@ graph LR
 <div align="center">
 
 ### 💡 **Técnicas**
-🔧 **SAP** • 📄 **DocuSign & CLM** • 🤖 **Power Automate** • 📊 **Power BI** • 🐍 **Python** • 📈 **Excel Avançado**
+🔧 **SAP** • 📄 **DocuSign & CLM** • 🤖 **Power Automate** • 📊 **Excel Avançado** • 📋 **Processos Administrativos** • 🧾 **Gestão Fiscal**
 
 ### 🎯 **Comportamentais**
 📚 **Aprendizado Contínuo** • 🧠 **Pensamento Analítico** • 🤝 **Trabalho em Equipe** • 🚀 **Proatividade** • ⏰ **Gestão de Prioridades**
+
+### 📖 **Em Estudo**
+🐍 **Python** • 📊 **Power BI** • 📈 **Análise de Dados** • 🎓 **Gestão de TI**
 
 </div>
 

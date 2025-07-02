@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Arthur Costa Bleck Mascarenhas!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Técnico+Administrativo+no+Einstein;Estudante+de+Gestão+de+TI;Especialista+em+SAP+e+Power+Automate;Em+transição+para+área+de+dados!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Técnico+Administrativo+no+Einstein;Estudante+de+Gestão+de+TI;Conhecimento+em+SAP+e+Power+Automate;Em+transição+para+área+de+dados!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim

@@ -25,7 +25,6 @@ Sou um profissional motivado e sempre em busca de aprendizado, com sólida exper
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 📊 Produtividade
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 </div>
@@ -58,13 +57,7 @@ metas_2025 = {
         "area": "Tecnologia da Informação",
         "meta": "Transição para área de TI",
         "prazo": "2025-2027"
-    },
-    "projetos_futuros": {
-        "tipo": "Automação de processos hospitalares",
-        "aplicacao": "Otimização de fluxos administrativos",
-        "impacto": "Melhoria da eficiência operacional"
     }
-}
 ```
 
 ---
@@ -106,36 +99,6 @@ metas_2025 = {
 - 🧠 **Lógica de Programação** - Alura (2025)
 - 🤖 **Automação de Processos** - Microsoft Power Platform
 - 📈 **Business Intelligence** - Power BI
-
----
-
-## 🌟 Competências Core
-
-<div align="center">
-
-### 💡 **Técnicas**
-🔧 **SAP** • 📄 **DocuSign & CLM** • 🤖 **Power Automate** • 📊 **Excel Avançado** • 📋 **Processos Administrativos** • 🧾 **Gestão Fiscal**
-
-### 🎯 **Comportamentais**
-📚 **Aprendizado Contínuo** • 🧠 **Pensamento Analítico** • 🤝 **Trabalho em Equipe** • 🚀 **Proatividade** • ⏰ **Gestão de Prioridades**
-
-### 📖 **Em Estudo**
-🐍 **Python** • 📊 **Power BI** • 📈 **Análise de Dados** • 🎓 **Gestão de TI**
-
-</div>
-
----
-
-## 📈 Atividade GitHub
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thucosta0&theme=tokyonight" alt="Perfil de Atividades"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thucosta0&theme=tokyonight&utcOffset=-3" alt="Horário Produtivo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thucosta0&theme=tokyonight" alt="Estatísticas"/>
-</div>
 
 ---
 

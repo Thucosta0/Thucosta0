@@ -115,10 +115,6 @@ metas_2025 = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thucosta0&color=0066CC&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
   <h3>💭 "A tecnologia é melhor quando aproxima as pessoas e otimiza processos"</h3>
   <p><em>⭐ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios!</em></p>
 </div> 

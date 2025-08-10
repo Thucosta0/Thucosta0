@@ -43,24 +43,6 @@ Sou um profissional motivado e sempre em busca de aprendizado, com sólida exper
 </div>
 
 ---
-
-## 🎯 Objetivos Profissionais
-
-```python
-metas_2025 = {
-    "desenvolvimento_pessoal": {
-        "foco": "Análise de Dados e Automação",
-        "tecnologias": ["Python", "Power BI", "Power Automate"],
-        "objetivo": "Especialização em soluções de dados e processos"
-    },
-    "crescimento_profissional": {
-        "area": "Tecnologia da Informação",
-        "meta": "Transição para área de TI",
-        "prazo": "2025-2027"
-    }
-```
-
----
 ## 💼 Trajetória Profissional
 
 ### 🏥 **Hospital Israelita Albert Einstein**

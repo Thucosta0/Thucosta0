@@ -1,9 +1,5 @@
 Hiii, eu sou Arthur Costa Bleck Mascarenhas!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Técnico+Administrativo+no+Einstein;Estudante+de+Gestão+de+TI;Conhecimento+em+SAP+e+Power+Automate;Em+transição+para+área+de+dados!" alt="Typing SVG" />
-</div>
-
 ## 🚀 Sobre Mim
 
 Sou um profissional motivado e sempre em busca de aprendizado, com sólida experiência na área administrativa e fiscal. Apaixonado por tecnologia e automação, estou me especializando em análise de dados e desenvolvimento de soluções inovadoras para otimização de processos empresariais.

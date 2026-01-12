@@ -6,12 +6,12 @@
 </div>
 
 ### 🚀 Sobre Mim
-[cite_start]**Analista de Dados** e **Desenvolvedor Backend** focado em automação de processos e eficiência operacional. [cite_start]Desenvolvo scripts, pipelines de dados e integrações complexas entre sistemas ERP (SAP), bancos de dados e aplicações externas[cite: 8, 18].
+**Analista de Dados** e **Desenvolvedor Backend** focado em automação de processos e eficiência operacional[cite: 7]. [cite_start]Desenvolvo scripts, pipelines de dados e integrações complexas entre sistemas ERP (SAP), bancos de dados e aplicações externas[cite: 8, 18].
 
-- [cite_start]🎓 Graduando em **Gestão de Tecnologia da Informação** – Unifecaf [cite: 14]
-- [cite_start]⚙️ Expertise em **ETL**, data cleaning e manipulação de dados estruturados/semiestruturados (XML, NF-e) [cite: 9, 19]
-- [cite_start]🤖 Criador de soluções de automação utilizando **Python** e **Power Automate** [cite: 18, 53]
-- [cite_start]🌎 **Inglês Avançado** (Técnico) [cite: 46]
+* [cite_start]🎓 Graduando em **Gestão de Tecnologia da Informação** – Unifecaf [cite: 14]
+* [cite_start]⚙️ Expertise em **ETL**, data cleaning e manipulação de dados estruturados/semiestruturados (XML, NF-e) [cite: 9, 19]
+* [cite_start]🤖 Criador de soluções de automação utilizando **Python** e **Power Automate** [cite: 18, 53]
+* [cite_start]🌎 **Inglês Avançado** (Técnico) [cite: 46]
 
 ---
 

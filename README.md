@@ -1,12 +1,12 @@
 # Olá, eu sou o Arthur Costa (thucosta) 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thucosta0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thucosta0&layout=compact&langs_count=4&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Thucosta0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thucosta0&layout=compact&langs_count=4&theme=tokyonight"/>
 </div>
 
 ### 🚀 Sobre Mim
-Analista de Dados e Desenvolvedor Backend focado em automação de processos e eficiência operacional. Especialista no desenvolvimento de scripts, pipelines de dados e integrações entre sistemas ERP (SAP), bancos de dados e aplicações externas.
+Analista de Dados e Desenvolvedor Backend focado em automação de processos e eficiência operacional. Desenvolvo scripts, pipelines de dados e integrações complexas entre sistemas ERP (SAP), bancos de dados e aplicações externas.
 
 * 🎓 Graduando em **Gestão de Tecnologia da Informação** – Unifecaf
 * ⚙️ Expertise em **ETL**, data cleaning e manipulação de dados estruturados/semiestruturados (XML, NF-e)
@@ -28,7 +28,7 @@ Analista de Dados e Desenvolvedor Backend focado em automação de processos e e
 
 ### 📈 Streak & Atividade
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thucosta0&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Thucosta0&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---

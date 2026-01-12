@@ -6,7 +6,7 @@
 </div>
 
 ### 🚀 Sobre Mim
-Analista de Dados e Desenvolvedor Backend focado em automação de processos e eficiência operacional. Desenvolvo scripts, pipelines de dados e integrações complexas entre sistemas ERP (SAP), bancos de dados e aplicações externas.
+Analista de Dados e Desenvolvedor Backend focado em automação de processos e eficiência operacional. Especialista no desenvolvimento de scripts, pipelines de dados e integrações entre sistemas ERP (SAP), bancos de dados e aplicações externas.
 
 * 🎓 Graduando em **Gestão de Tecnologia da Informação** – Unifecaf
 * ⚙️ Expertise em **ETL**, data cleaning e manipulação de dados estruturados/semiestruturados (XML, NF-e)
